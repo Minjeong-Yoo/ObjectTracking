@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ymj/project/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ymj/project_ws/src/detection/include/**",
+        "/home/ymj/project/src/lidar_euclidean_cluster_detect/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
